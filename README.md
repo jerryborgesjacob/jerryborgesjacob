@@ -1,5 +1,9 @@
 # Hello there!
 
+I am Jerry Borges Jacob. 
+
+You can reach me at:
+
 
 <!--
 **jerryborgesjacob/jerryborgesjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
