@@ -1,9 +1,12 @@
 # Hello there!
 
-I am Jerry Borges Jacob. 
+I am Jerry Borges Jacob. Learning Web Development at Humber College 🇨🇦.
 
 You can reach me at:
 <a href="https://twitter.com/Jerrybjacob">Twitter</a>
+<a href="></a>
+
+
 
 
 <!--
