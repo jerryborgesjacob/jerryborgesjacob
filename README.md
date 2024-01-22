@@ -1,6 +1,6 @@
 # Hello there!
 
-I am Jerry Borges Jacob. Learning Web Development at Humber College 🇨🇦.
+I am Jerry Borges Jacob. Learning Web Development at Humber College :flag_canada:.
 
 You can reach me at:
 <a href="https://twitter.com/Jerrybjacob">Twitter</a>
