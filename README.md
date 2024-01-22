@@ -3,6 +3,7 @@
 I am Jerry Borges Jacob. 
 
 You can reach me at:
+<a href="https://twitter.com/Jerrybjacob">Twitter</a>
 
 
 <!--
