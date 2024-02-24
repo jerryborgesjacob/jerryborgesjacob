@@ -6,7 +6,7 @@ You can reach me at:
 <a href="https://twitter.com/Jerrybjacob">Twitter</a>
 
 ## Languages
-Here is a list of languages I have learnt
+Here is a list of languages <br/> I have learnt
 
 
 
