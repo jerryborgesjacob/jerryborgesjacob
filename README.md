@@ -3,12 +3,15 @@
 I am Jerry Borges Jacob. Learning Web Development at Humber College.
 
 Currently I'm learning:
-<tr> 
 
-  ![HTML5_Logo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/b3f7f285-7ab8-4480-9aef-a32c79ecfef4) </tr>
-<tr> 
+
+  ![HTML5_Logo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/b3f7f285-7ab8-4480-9aef-a32c79ecfef4) 
+ 
   
-  ![css](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/f07cf3d9-65c4-4fc4-adca-b50b39a54d06) </tr>
+  <div height = 200 width = 200 >   
+    
+    
+![css](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/f07cf3d9-65c4-4fc4-adca-b50b39a54d06)  </div>
 
 ![js](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/37161f90-d3ab-45ce-880d-38ddfe644e87)
 ![Csharp_Logo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/fb346fb9-34d5-4675-9347-b7ded22bdfe4)
