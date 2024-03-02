@@ -12,7 +12,7 @@ Currently I'm learning:
 
 You can reach me at:
 
-<a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "100" width = "100"></a>
+<a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "60" width = "80"></a>
 
 
 
