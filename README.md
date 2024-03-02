@@ -1,5 +1,5 @@
 # Hello there!
-<body style="background-color : #FFFFFF;">
+<body style="background-color : #FFFFFF">
 
 I am Jerry Borges Jacob. Learning Web Development at Humber College.
 
