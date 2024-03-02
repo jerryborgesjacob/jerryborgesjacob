@@ -12,28 +12,7 @@ I am Jerry Borges Jacob. Currently learning Web Development at Humber College.
 
 ## You can reach me at:
 
-<a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "60" width = "70"></a>
-<a href="https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/"><img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/91adcb18-f5e5-49fc-b149-29eba2ac3b94" height = "60" width = "60"></a>
-
-</body>
+<a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "30" width = "40"></a>
+<a href="https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/"><img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/91adcb18-f5e5-49fc-b149-29eba2ac3b94" height = "30" width = "30"></a>
 
 
-
-
-
-
-<!--
-**jerryborgesjacob/jerryborgesjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
