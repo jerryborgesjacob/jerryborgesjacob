@@ -3,13 +3,17 @@
 I am Jerry Borges Jacob. Learning Web Development at Humber College.
 
 Currently I'm learning:
-![HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_Badge.svg&psig=AOvVaw3jZuHrjlKm9YnUYRPuHdhg&ust=1709438733239000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCV3NbZ1IQDFQAAAAAdAAAAABAD)
+![HTML5_Logo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/b3f7f285-7ab8-4480-9aef-a32c79ecfef4)
+![css](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/f07cf3d9-65c4-4fc4-adca-b50b39a54d06)
+![js](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/37161f90-d3ab-45ce-880d-38ddfe644e87)
+![Csharp_Logo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/fb346fb9-34d5-4675-9347-b7ded22bdfe4)
+![figmalogo](https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/5af3bee6-bf25-4255-bbe1-258125068cab)
+
 
 You can reach me at:
-<a href="https://twitter.com/Jerrybjacob">Twitter</a>
+<a href="https://twitter.com/Jerrybjacob"
+>Twitter</a>
 
-## Languages
-Here is a list of languages <br/> I have learnt
 
 
 
