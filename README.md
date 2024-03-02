@@ -15,9 +15,10 @@ Currently I'm learning:
 You can reach me at:
 
 <a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "60" width = "70"></a>
-<a href="https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/"><img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/bfb6be9f-835d-4714-8e3c-7327f562f8bd" height = "60" width = "60"></a>
+<a href="https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/"><img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/91adcb18-f5e5-49fc-b149-29eba2ac3b94" height = "60" width = "60"></a>
 
 </body>
+
 
 
 
