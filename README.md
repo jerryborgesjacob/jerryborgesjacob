@@ -4,7 +4,7 @@ I am Jerry Borges Jacob. Learning Web Development at Humber College.
 
 Currently I'm learning:
 
-<img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/b3f7f285-7ab8-4480-9aef-a32c79ecfef4" height = "100" width = "80">
+<img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/b3f7f285-7ab8-4480-9aef-a32c79ecfef4" height = "50" width = "50">
 
  
   
