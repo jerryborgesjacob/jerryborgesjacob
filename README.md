@@ -11,8 +11,8 @@ Currently I'm learning:
 <img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/5af3bee6-bf25-4255-bbe1-258125068cab" height = "40" width = "30">
 
 You can reach me at:
-<a href="https://twitter.com/Jerrybjacob"
->Twitter</a>
+
+<a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9"></a>
 
 
 
