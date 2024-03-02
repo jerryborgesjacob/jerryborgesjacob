@@ -13,6 +13,8 @@ Currently I'm learning:
 You can reach me at:
 
 <a href="https://twitter.com/Jerrybjacob"><img src = "https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/601eca52-5a96-4d38-8790-16b8b83feae9" height = "60" width = "70"></a>
+<a href="https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/"><img src="https://github.com/jerryborgesjacob/jerryborgesjacob/assets/156135012/bb9dd547-3ed6-4b45-838f-0a09059af3da" height = "60" width = "200"></a>
+
 
 
 
